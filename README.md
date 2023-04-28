@@ -100,5 +100,4 @@ Copy the "accessToken" value from response and paste into Swagger Authorization 
 Now, go ahead and try the API methods.
 
 ## Licensing
-
 This application is made available under the [GNU General Public License V3](LICENSE)
